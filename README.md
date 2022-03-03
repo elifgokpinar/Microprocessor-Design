@@ -1,4 +1,4 @@
-# Microprocessor-CPU-Design
+# Microprocessor-Design
 Quartus Project
 
 
